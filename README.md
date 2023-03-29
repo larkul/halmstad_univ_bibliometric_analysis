@@ -1,2 +1,20 @@
 # halmstad_univ_bibliometric_benchmark
-Halmstad university publications 2017-2021 compared to other swedish orgainsations in a selection of Scopus ASJC areas
+Halmstad university publications 2017-2021 compared to other swedish orgainsations in a selection of Scopus ASJC areas:
+
+* Business, Management and Accounting (1401)
+* Strategy and Management (1408)
+* Artificial Intelligence (1702)
+* Computer Networks and Communications (1705)
+* Computer Vision and Pattern Recognition (1707)
+* Hardware and Architecture (1708)
+* Signal Processing (1711)
+* Software (1712)
+* General Energy (2100)
+* Industrial and Manufacturing Engineering (2209)
+* Mechanical Engineering (2210)
+* Orthopedics and Sports Medicine (2732)
+* Fundamentals and skills (2908)
+* Issues, ethics and legal aspects (2910)
+* Applied Psychology (3202)
+* Education (3304)
+* Physical Therapy, Sports Therapy and Rehabilitation (3612)
